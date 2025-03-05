@@ -108,7 +108,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                       child: Text(
                                         "I’m passionate about language revitalization, speech technology, "
                                         "and great mobile apps.  "
-                                        "Currently pursuing a Master's in Computational Linguistics at "
+                                        "Master's in Computational Linguistics at "
                                         "the University of Washington.",
                                         style: Theme.of(context)
                                             .textTheme
